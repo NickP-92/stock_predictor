@@ -46,6 +46,10 @@ py stock_predictor.py SYMBOL YEARS
 py stock_predictor.py AAPL 5
 ```
 
+## 🧪 Example Chart
+![Recursive Prediction Plot](AAPL_5.png)
+
+
 ## 📌 Notes
 This is a very simple model using only the previous day's closing price.
 
